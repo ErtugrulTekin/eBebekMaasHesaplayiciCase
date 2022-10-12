@@ -37,10 +37,5 @@ Sınıfın Metotları
 
 •	raiseSalary() hesaplarken vergi ve bonusları dikkate almalısınız.
 
-•	tax() fonksiyonu ile sadece salary’i uygulanan vergi hesaplanacak
-
-•	Toplam maaş: çalışanın kendi maaşı+ bonus
-
-•	Vergi ve bonuslarla birlikte maaş için: vergi, bonus ve çalışanın kendi maaşı ile bulunacak.
 
 
